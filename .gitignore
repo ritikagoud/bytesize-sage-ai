@@ -1,0 +1,9 @@
+# Media files
+*.mp4
+*.wav
+
+# Generated outputs
+outputs/
+
+# Python cache
+__pycache__/
