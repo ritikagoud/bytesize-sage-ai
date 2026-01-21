@@ -28,7 +28,8 @@ This system automatically:
 3. Output clips are generated in the `outputs/` folder
 
 ## Demo
-Screen recording link: https://drive.google.com/file/d/1d6vgMWx1N0cpacy5jumiQ9iV5erL-tya/view?usp=sharing
+## Demo
+Demo recorded during hackathon submission.
 
 ## Output Samples
 - outputs/clip_1.mp4
@@ -37,4 +38,5 @@ Screen recording link: https://drive.google.com/file/d/1d6vgMWx1N0cpacy5jumiQ9iV
 - outputs/clip_4.mp4
 
 Note: Large media files are excluded from the repository. Demo video demonstrates the working output.
+
 
