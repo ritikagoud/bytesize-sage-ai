@@ -26,8 +26,7 @@ This system automatically:
 2. Run:
    python main.py
 3. Output clips are generated in the `outputs/` folder
-
-## Demo
+   
 ## Demo
 Demo recorded during hackathon submission.
 
@@ -38,5 +37,6 @@ Demo recorded during hackathon submission.
 - outputs/clip_4.mp4
 
 Note: Large media files are excluded from the repository. Demo video demonstrates the working output.
+
 
 
